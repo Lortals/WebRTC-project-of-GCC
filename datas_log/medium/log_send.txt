@@ -1,0 +1,638 @@
+stats show 0--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:36.158905+00:00
+bytes sent = 173958
+packets sent = 149
+rtt = None
+receiving end:
+packets received = 85
+packets lost = 0
+jitter = 209
+stats show--------------------------------
+stats show 1--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:36.158905+00:00
+bytes sent = 227539
+packets sent = 195
+rtt = None
+receiving end:
+packets received = 85
+packets lost = 0
+jitter = 209
+stats show--------------------------------
+stats show 2--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:37.351992+00:00
+bytes sent = 279989
+packets sent = 241
+rtt = 0.002318143844604492
+receiving end:
+packets received = 198
+packets lost = 0
+jitter = 691
+stats show--------------------------------
+stats show 3--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:37.937260+00:00
+bytes sent = 331134
+packets sent = 284
+rtt = 0.0023507237434387206
+receiving end:
+packets received = 253
+packets lost = 0
+jitter = 303
+stats show--------------------------------
+stats show 4--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:37.937260+00:00
+bytes sent = 388679
+packets sent = 334
+rtt = 0.0023507237434387206
+receiving end:
+packets received = 253
+packets lost = 0
+jitter = 303
+stats show--------------------------------
+stats show 5--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:39.053574+00:00
+bytes sent = 444892
+packets sent = 379
+rtt = 0.0024315959215164182
+receiving end:
+packets received = 355
+packets lost = 0
+jitter = 260
+stats show--------------------------------
+stats show 6--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:39.053574+00:00
+bytes sent = 497273
+packets sent = 424
+rtt = 0.0024315959215164182
+receiving end:
+packets received = 355
+packets lost = 0
+jitter = 260
+stats show--------------------------------
+stats show 7--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:40.204709+00:00
+bytes sent = 550545
+packets sent = 470
+rtt = 0.0024382888376712794
+receiving end:
+packets received = 461
+packets lost = 0
+jitter = 156
+stats show--------------------------------
+stats show 8--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:40.204709+00:00
+bytes sent = 604544
+packets sent = 517
+rtt = 0.0024382888376712794
+receiving end:
+packets received = 461
+packets lost = 0
+jitter = 156
+stats show--------------------------------
+stats show 9--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:40.204709+00:00
+bytes sent = 661636
+packets sent = 566
+rtt = 0.0024382888376712794
+receiving end:
+packets received = 461
+packets lost = 0
+jitter = 156
+stats show--------------------------------
+stats show 10--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:41.361133+00:00
+bytes sent = 716251
+packets sent = 611
+rtt = 0.002523943407833576
+receiving end:
+packets received = 569
+packets lost = 0
+jitter = 254
+stats show--------------------------------
+stats show 11--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:41.361133+00:00
+bytes sent = 768459
+packets sent = 656
+rtt = 0.002523943407833576
+receiving end:
+packets received = 569
+packets lost = 0
+jitter = 254
+stats show--------------------------------
+stats show 12--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:42.606857+00:00
+bytes sent = 822539
+packets sent = 702
+rtt = 0.002522756586447358
+receiving end:
+packets received = 677
+packets lost = 7
+jitter = 1636
+stats show--------------------------------
+stats show 13--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:42.606857+00:00
+bytes sent = 880407
+packets sent = 752
+rtt = 0.002522756586447358
+receiving end:
+packets received = 677
+packets lost = 7
+jitter = 1636
+stats show--------------------------------
+stats show 14--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:42.606857+00:00
+bytes sent = 936957
+packets sent = 800
+rtt = 0.002522756586447358
+receiving end:
+packets received = 677
+packets lost = 7
+jitter = 1636
+stats show--------------------------------
+stats show 15--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:44.024359+00:00
+bytes sent = 990208
+packets sent = 845
+rtt = 0.0026840393150635066
+receiving end:
+packets received = 808
+packets lost = 7
+jitter = 284
+stats show--------------------------------
+stats show 16--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:44.790472+00:00
+bytes sent = 1043289
+packets sent = 891
+rtt = 0.0026125252986023205
+receiving end:
+packets received = 878
+packets lost = 7
+jitter = 214
+stats show--------------------------------
+stats show 17--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:44.790472+00:00
+bytes sent = 1094623
+packets sent = 935
+rtt = 0.0026125252986023205
+receiving end:
+packets received = 878
+packets lost = 7
+jitter = 214
+stats show--------------------------------
+stats show 18--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:44.790472+00:00
+bytes sent = 1152308
+packets sent = 985
+rtt = 0.0026125252986023205
+receiving end:
+packets received = 878
+packets lost = 7
+jitter = 214
+stats show--------------------------------
+stats show 19--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:46.053396+00:00
+bytes sent = 1208090
+packets sent = 1030
+rtt = 0.0026961485179721285
+receiving end:
+packets received = 996
+packets lost = 7
+jitter = 136
+stats show--------------------------------
+stats show 20--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:46.833597+00:00
+bytes sent = 1260889
+packets sent = 1075
+rtt = 0.002914213308452579
+receiving end:
+packets received = 1065
+packets lost = 7
+jitter = 166
+stats show--------------------------------
+stats show 21--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:46.833597+00:00
+bytes sent = 1313918
+packets sent = 1121
+rtt = 0.002914213308452579
+receiving end:
+packets received = 1065
+packets lost = 7
+jitter = 166
+stats show--------------------------------
+stats show 22--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:47.787742+00:00
+bytes sent = 1367787
+packets sent = 1169
+rtt = 0.003008194459920288
+receiving end:
+packets received = 1155
+packets lost = 7
+jitter = 206
+stats show--------------------------------
+stats show 23--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:47.787742+00:00
+bytes sent = 1424225
+packets sent = 1216
+rtt = 0.003008194459920288
+receiving end:
+packets received = 1155
+packets lost = 7
+jitter = 206
+stats show--------------------------------
+stats show 24--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:48.463137+00:00
+bytes sent = 1478431
+packets sent = 1261
+rtt = 0.0031069969529195496
+receiving end:
+packets received = 1218
+packets lost = 7
+jitter = 150
+stats show--------------------------------
+stats show 25--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:48.463137+00:00
+bytes sent = 1530607
+packets sent = 1306
+rtt = 0.0031069969529195496
+receiving end:
+packets received = 1218
+packets lost = 7
+jitter = 150
+stats show--------------------------------
+stats show 26--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:48.463137+00:00
+bytes sent = 1581073
+packets sent = 1349
+rtt = 0.0031069969529195496
+receiving end:
+packets received = 1218
+packets lost = 7
+jitter = 150
+stats show--------------------------------
+stats show 27--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:49.931559+00:00
+bytes sent = 1638993
+packets sent = 1400
+rtt = 0.0029401031221093026
+receiving end:
+packets received = 1348
+packets lost = 7
+jitter = 349
+stats show--------------------------------
+stats show 28--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:50.671949+00:00
+bytes sent = 1695654
+packets sent = 1447
+rtt = 0.002804966769851257
+receiving end:
+packets received = 1421
+packets lost = 7
+jitter = 188
+stats show--------------------------------
+stats show 29--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:50.671949+00:00
+bytes sent = 1748930
+packets sent = 1492
+rtt = 0.002804966769851257
+receiving end:
+packets received = 1421
+packets lost = 7
+jitter = 188
+stats show--------------------------------
+stats show 30--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:50.671949+00:00
+bytes sent = 1801474
+packets sent = 1538
+rtt = 0.002804966769851257
+receiving end:
+packets received = 1421
+packets lost = 7
+jitter = 188
+stats show--------------------------------
+stats show 31--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:52.114043+00:00
+bytes sent = 1852773
+packets sent = 1582
+rtt = 0.003791022501291293
+receiving end:
+packets received = 1552
+packets lost = 7
+jitter = 146
+stats show--------------------------------
+stats show 32--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:52.114043+00:00
+bytes sent = 1910270
+packets sent = 1631
+rtt = 0.003791022501291293
+receiving end:
+packets received = 1552
+packets lost = 7
+jitter = 146
+stats show--------------------------------
+stats show 33--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:53.370021+00:00
+bytes sent = 1965682
+packets sent = 1676
+rtt = 0.004338132313506046
+receiving end:
+packets received = 1669
+packets lost = 7
+jitter = 165
+stats show--------------------------------
+stats show 34--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:53.370021+00:00
+bytes sent = 2022211
+packets sent = 1724
+rtt = 0.004338132313506046
+receiving end:
+packets received = 1669
+packets lost = 7
+jitter = 165
+stats show--------------------------------
+stats show 35--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:54.116315+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.004085380758716468
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 36--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:54.748410+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003871972448619935
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 37--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:54.748410+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003871972448619935
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 38--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:55.474850+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0036869275807776282
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 39--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:56.222427+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003530497749996433
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 40--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:56.222427+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003530497749996433
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 41--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:57.350079+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003499313285250874
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 42--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:57.350079+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003499313285250874
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 43--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:57.350079+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003499313285250874
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 44--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:58.819336+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0033794656164988874
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 45--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:58.819336+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0033794656164988874
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 46--------------------------------
+sending end:
+time of sending = 2023-12-27 07:40:58.819336+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0033794656164988874
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 47--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:00.213004+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0032724452567511053
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 48--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:00.213004+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0032724452567511053
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 49--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:00.213004+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0032724452567511053
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 50--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:01.630522+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0031634177435985473
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 51--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:01.630522+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0031634177435985473
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 52--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:01.630522+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0031634177435985473
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 53--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:02.950935+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003132792792630054
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 54--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:02.950935+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003132792792630054
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 55--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:03.980916+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0031515008306752432
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 56--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:03.980916+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.0031515008306752432
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
+stats show 57--------------------------------
+sending end:
+time of sending = 2023-12-27 07:41:05.309165+00:00
+bytes sent = 2035915
+packets sent = 1736
+rtt = 0.003122270025989728
+receiving end:
+packets received = 1729
+packets lost = 7
+jitter = 170
+stats show--------------------------------
